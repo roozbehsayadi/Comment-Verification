@@ -1,0 +1,3 @@
+*.csv
+*.jar
+.ipynb_checkpoints/
