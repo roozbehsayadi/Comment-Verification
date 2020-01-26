@@ -4,7 +4,7 @@ jupyter==1.0.0
 jupyter-client==5.2.4
 jupyter-console==6.0.0
 jupyter-core==4.4.0
-nltk==3.3
-notebook==5.7.8
+nltk==3.4.5
+notebook==5.7.4
 numpy==1.17.4
 pandas==0.25.3
