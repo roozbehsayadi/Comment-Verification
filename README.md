@@ -12,4 +12,6 @@ There are two programs in the repository. In "Comment Verification Without learn
 - **requirements.txt** - If you are familiar with python, you know that this file helps running the program without version conflict problems in the libraries. 
 - **stop_words** - These are some Persian stop words I used to improve my accuracy.
 
-If you want to implement your approach, pay attention that you have to put your outputs in a file named ans.csv. This file should have two columns. The first column's name is "id", and it contains the id of the comment in one row. The second column is verification_status, and it shows whether the comment in one row is spam or ham. 
+if you don't want to wait for "Comment Verification Without learning libraries.ipynb" to calculate probabilities, you can download two respective CSV files I uploaded in [my Google Drive](https://drive.google.com/file/d/1xAwm_t4FlwCEbMMGVllTqMoIVeWkEg75/view?usp=sharing). Commands for loading these 2 files into the program are available in the code. 
+
+Also, If you want to implement your approach, pay attention that you have to put your outputs in a file named ans.csv. This file should have two columns. The first column's name is "id", and it contains the id of the comment in one row. The second column is verification_status, and it shows whether the comment in one row is spam or ham. 
